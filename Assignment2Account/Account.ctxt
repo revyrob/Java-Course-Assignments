@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=owner\ account\ initial
+comment1.target=Account(java.lang.String,\ long,\ double)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=amount
+comment2.target=double\ deposit(double)
+comment3.params=amount\ fee
+comment3.target=double\ withdraw(double,\ double)
+comment4.params=
+comment4.target=double\ addInterest()
+comment5.params=
+comment5.target=double\ getBalance()
+comment6.params=
+comment6.target=boolean\ locked()
+comment7.params=key
+comment7.target=void\ setKey(int)
+comment8.params=key
+comment8.target=void\ unlock(int)
+comment9.params=key
+comment9.target=boolean\ lock(int)
+numComments=11
