@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Clown
+comment1.params=name
+comment1.target=Clown(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=other
+comment3.target=boolean\ equals(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

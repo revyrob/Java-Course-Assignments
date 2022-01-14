@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Parade
+comment1.params=
+comment1.target=Parade()
+comment2.params=
+comment2.target=void\ removeClown()
+comment3.params=c
+comment3.target=void\ addClown(Clown)
+comment4.params=
+comment4.target=void\ display()
+comment5.params=c
+comment5.target=boolean\ isFront(Clown)
+numComments=6
