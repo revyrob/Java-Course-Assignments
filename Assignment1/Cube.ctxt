@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cube
+comment1.params=shp\ sd
+comment1.target=Cube(java.lang.String,\ int)
+comment2.params=
+comment2.target=Cube()
+comment3.params=side
+comment3.target=Cube(int)
+comment4.params=
+comment4.target=double\ volume()
+comment5.params=
+comment5.target=double\ area()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
