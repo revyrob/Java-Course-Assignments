@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DrawTester
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ two\ boxes\ within\ drawTester\r\n\ box\ of\ names\ (5)\r\n\ box\ of\ places\ at\ a\ table\ (5)\r\n
+numComments=2
